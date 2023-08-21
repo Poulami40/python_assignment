@@ -19,6 +19,7 @@ The CSV Data Visualizer is a command-line tool that allows users to input a data
 1. Clone this repository to your local machine:
 
   git clone https://github.com/Poulami40/python_assignment.git
+  
   cd data_visualizer.csv
 
 2. Install the required dependencies using pip:
